@@ -1,6 +1,5 @@
 
 streamlit
-openai
 pandas
 pdfplumber
 openpyxl
@@ -8,7 +7,7 @@ python-dotenv
 langchain
 langchain_community
 langchain_core
-langchain_chroma
+langchain-chroma
 huggingface_hub
 sentence_transformers
 unstructured
