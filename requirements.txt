@@ -16,3 +16,4 @@ langchain_huggingface
 langchain_openai
 langchain_groq
 rapidfuzz
+pysqlite3-binary
