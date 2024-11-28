@@ -2,7 +2,7 @@ import streamlit as st
 from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain_chroma import Chroma
+from langchain.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 import pandas as pd
 import os
