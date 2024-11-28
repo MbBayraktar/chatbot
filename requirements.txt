@@ -1,5 +1,6 @@
 
 streamlit
+openai
 pandas
 pdfplumber
 openpyxl
@@ -16,4 +17,4 @@ langchain_huggingface
 langchain_openai
 langchain_groq
 rapidfuzz
-sqlite==3.35.0
+sqlite
