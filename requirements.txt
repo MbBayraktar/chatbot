@@ -1,5 +1,7 @@
 
 streamlit
+torch
+torchvision
 pandas
 openpyxl
 python-dotenv
