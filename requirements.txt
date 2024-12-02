@@ -15,6 +15,6 @@ unstructured
 langchain_community
 langchain_huggingface
 langchain_openai
-sqlite3 >= 3.35.0
+sqlite3
 chromadb
 pysqlite3-binary
